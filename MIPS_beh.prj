@@ -1,0 +1,2 @@
+vhdl work "InstructionMemory.vhd"
+vhdl work "MIPS.vhd"

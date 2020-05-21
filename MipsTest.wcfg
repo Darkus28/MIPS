@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/ise/460/MIPSDemo/Tb_MIPS_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="tb_mips" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/tb_mips/tb_clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tb_clk</obj_property>
+      <obj_property name="ObjectShortName">tb_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/tb_reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tb_reset</obj_property>
+      <obj_property name="ObjectShortName">tb_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/U1_Test/se_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">se_in[15:0]</obj_property>
+      <obj_property name="ObjectShortName">se_in[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/U1_Test/se_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">se_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">se_out[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/U1_Test/reg2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">reg2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">reg2[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/U1_Test/mux_ctl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mux_ctl</obj_property>
+      <obj_property name="ObjectShortName">mux_ctl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/U1_Test/mux_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mux_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mux_out[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

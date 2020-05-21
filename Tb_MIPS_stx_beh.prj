@@ -1,0 +1,4 @@
+vhdl isim_temp "SignExtender.vhd"
+vhdl isim_temp "Mux.vhd"
+vhdl isim_temp "MIPS.vhd"
+vhdl isim_temp "Tb_MIPS.vhd"

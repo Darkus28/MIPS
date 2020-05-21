@@ -1,0 +1,2 @@
+vhdl isim_temp "InstructionMemory.vhd"
+vhdl isim_temp "MIPS.vhd"
